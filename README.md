@@ -1,5 +1,3 @@
-# simple-interest-calculator
-
 # Simple Interest Calculator
 
 This repository contains a bash script for calculating simple interest.
